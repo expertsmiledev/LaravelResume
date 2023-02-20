@@ -1,0 +1,9 @@
+Project description
+Client requiremnt is to develope ecommerce site for his Homeappliance store.
+
+I have did web developement for whole site from scratch till payment confirmation and shipping part.
+
+I have used Woocommerce plugin
+
+more
+https://aawkitchens.com/

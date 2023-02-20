@@ -1,0 +1,43 @@
+- https://ketomei.com/
+- https://fitfresh.sg/
+- https://praavahealth.com/
+- https://flash.health/
+- https://www.organimi.com/
+- https://precisionoptical.ca/
+- https://baldwinsguesthousecozumel.com/
+- https://eurekaprocess.com/
+- https://beautyiqprosalonsuites.com/
+- https://praavahealth.com/
+- https://mariguavida.com/home
+
+Laravel Framework sites
+1. https://caranalytics.co.uk/ [Online Car services subscription plan]
+2. https://www.admenu.co/pricing [Online adds subscription plan]
+3. https://dealers.caranalytics.co.uk/login [Laravel + API]
+4. https://relloe.com/ [Laravel+angular+twilio API]
+5. http://mynew2.medallionmint.com/ [CRM Software application online]
+6. https://vehiclecheck.theautoexperts.co.uk/ [Online Car services subscription plan]
+7. https://app.fatraven.co.uk/ [Job Portal Sites]
+
+In laravel we have only one option that create backend and show that products in frontend nothing else
+
+but in wordpress we can changes everything according to you or in future if you have changed everything like theme, plugin or products layout, functionality add on that is also easy to changes and not costly also
+
+that project i have done in laravel
+Laravel Framework
+1. https://caranalytics.co.uk/ [Online Car services subscription plan]
+2. https://www.admenu.co/pricing [Online adds subscription plan]
+3. https://dealers.caranalytics.co.uk/login [Laravel + api’s]
+4. https://crowdpip.com/ [Laravel+angular+twilio api]
+5. https://kosmotix.com/ [On book events and information site]
+6. http://mynew2.medallionmint.com/ [CRM Software application online]
+
+You need server for hosting
+
+and domain
+
+after that you have to tell me what you want to show user on site
+
+avcorodng to that I will give you some design ideas
+
+and then we design logo for you

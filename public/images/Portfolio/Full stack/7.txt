@@ -1,0 +1,13 @@
+Shopify - Purenature Shop
+
+Business Size
+Business with 1-9 Employees
+Front-End Development Deliverables
+Ecommerce Website
+Front-End Development Languages
+SCSSTypeScriptHTML5
+Front-End Development Skills
+Vue.jsjQuery
+Project description
+Shopify shop from scratch for dietary supplement products.
+https://www.purenature-shop.de/

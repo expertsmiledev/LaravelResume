@@ -1,0 +1,11 @@
+Project description
+In this project client want e commerce functionality with laravel + october CMS.
+
+Client need to integrate paybeagle payment gateway integration
+
+I achieve client requirement by use if octocart plugin + custom coding .
+
+more
+https://www.lecapitaine.mu
+April 2018 - May 2018
+October CMS - Shopping Cart & Payment gateway integration

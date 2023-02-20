@@ -1,0 +1,11 @@
+This is the laravel website
+
+Front-End Development Deliverables
+BlogTemplate MarkupWebsite
+Front-End Development Languages
+SCSSHTMLTypeScriptCSS
+Front-End Development Skills
+jQueryBootstrapAngularJSJSONXML
+Project description
+This site is developed in laravel with complete functionality of Car details search with VRM system. Where user free and paid membership plan purchase for search cars details and another all information regarding the car owner and another all system.
+https://caranalytics.co.uk/

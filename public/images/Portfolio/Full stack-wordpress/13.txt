@@ -1,0 +1,6 @@
+Responsive WordPress for TemplateMonster.com
+
+Project description
+Responsive WordPress template based on 1140grid responsive framework (http://www.1140px.com/)
+http://www.templatemonster.com/demo/41530.html
+https://austindentalassistantschool.com/

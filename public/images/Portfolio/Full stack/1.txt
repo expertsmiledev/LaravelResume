@@ -1,0 +1,25 @@
+CMS Customization Deliverables
+WordPress Plugin
+CMS Development Deliverables
+WordPress ThemeEcommerce Website
+CMS Development Skills
+Elementor
+Content Writing Deliverables
+Landing Page
+eCommerce Platforms
+WooCommerce
+Front-End Development Skills
+Bootstrap
+Full Stack Development Deliverables
+Web Application
+Programming Languages
+PHP
+UX/UI Design Software
+Figma
+UX/UI Design Type
+Web Design
+Website Builders & CMS Platforms
+WordPress
+Project description
+In this project I have created Landing page form figma with elementor and contact form 7
+https://theflexliving.com/

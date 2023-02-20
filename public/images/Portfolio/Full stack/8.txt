@@ -1,0 +1,13 @@
+Shopware - Unleashed Gods
+
+Business Size
+Business with 1-9 Employees
+Front-End Development Deliverables
+Ecommerce Website
+Front-End Development Languages
+SCSSTypeScriptHTML5
+Front-End Development Skills
+Vue.js
+Project description
+Online shop from scratch based on the latest Shopware 6 Version
+https://unleashed-gods.de/

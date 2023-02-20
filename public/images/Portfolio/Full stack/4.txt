@@ -1,0 +1,5 @@
+Yaponahata - sushi delivery service
+
+Project description
+Development of a sushi delivery service based on a ready-made design.
+https://yaponahata.com/

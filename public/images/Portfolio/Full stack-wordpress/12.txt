@@ -1,0 +1,5 @@
+Responsive WordPress for TemplateMonster.com
+
+Project description
+Responsive WordPress template based on Skeleton responsive framework (http://responsivedesign.is/resources/frameworks/skeleton)
+http://www.templatemonster.com/demo/41821.html
